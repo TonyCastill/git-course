@@ -8,7 +8,7 @@ Por ejemplo:
 
 Se está reparando un bug
 
-fix :bug:
+fix: fixed
 
 
 feat:bug: Se arregló bugg
