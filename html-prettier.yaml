@@ -1,0 +1,16 @@
+name: HTML Lint and Prettier
+
+on: 
+  pull_request:
+    branches:
+      - main
+      - development
+
+
+jobs:
+  html-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+          uses: actions/checkout@3v
