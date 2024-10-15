@@ -9,3 +9,7 @@ Por ejemplo:
 Se está reparando un bug
 
 fix :bug:
+
+
+feat:bug: Se arregló bugg
+
